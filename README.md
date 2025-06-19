@@ -18,4 +18,4 @@ A simple and responsive weather application that displays real-time weather info
 - HTML / CSS / JavaScript
 - OpenWeatherMap API
 - Async JavaScript (Fetch API)
-- [Tutorial Source]((https://www.youtube.com/watch?v=ddYwN1h_Jno) 
+- [Tutorial Source](https://www.youtube.com/watch?v=ddYwN1h_Jno) 
